@@ -1,0 +1,31 @@
+{
+  "whoop": {
+    "access_token": "YOUR_WHOOP_ACCESS_TOKEN",
+    "refresh_token": "YOUR_WHOOP_REFRESH_TOKEN",
+    "user_id": "YOUR_WHOOP_USER_ID",
+    "client_id": "YOUR_WHOOP_CLIENT_ID",
+    "client_secret": "YOUR_WHOOP_CLIENT_SECRET"
+  },
+  "eleme": {
+    "sid": "YOUR_ELEME_SESSION_ID",
+    "device_id": "YOUR_DEVICE_ID",
+    "app_key": "24894833",
+    "app_version": "12.2.38",
+    "shop_id": "YOUR_FAVORITE_SHOP_ID",
+    "item_id": "YOUR_FAVORITE_ITEM_ID",
+    "item_spec_id": "YOUR_ITEM_SPEC_ID",
+    "address_id": "YOUR_DELIVERY_ADDRESS_ID",
+    "coupon_id": ""
+  },
+  "telegram": {
+    "bot_token": "YOUR_BOT_TOKEN",
+    "chat_id": "YOUR_TELEGRAM_CHAT_ID"
+  },
+  "order": {
+    "item_name": "冰美式",
+    "delivery_address": "你的收货地址",
+    "quiet_hours_start": "23:00",
+    "quiet_hours_end": "07:00",
+    "order_once_per_day": true
+  }
+}

@@ -1,0 +1,23 @@
+# Credentials - NEVER commit these
+config/config.json
+*.json
+!config/config.example.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# State files
+state.json
+last_order.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
